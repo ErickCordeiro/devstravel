@@ -1,6 +1,6 @@
 # devstravel
 
-A new Flutter project.
+🖥 Projeto desenvolvido seguindo o curso de Flutter da B7Web.
 
 ## Getting Started
 
